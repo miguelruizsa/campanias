@@ -1,8 +1,6 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
-# ![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://miguelruizsa.github.io/campanias/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1dGhYMzcbHOG2kMlRP5bsnvXHKXh4weulEHKCPWTYaFQ/edit#gid=0
